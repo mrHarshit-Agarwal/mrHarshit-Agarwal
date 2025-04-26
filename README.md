@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on Java Desktop Project **Employee Management System**
 
-- 🌱 I’m currently learning **Swing, AWT, Advance Java and SpringBoot**
+- 🌱 I’m currently learning **Java, JDBC, Servlet, JSP, JPA, Hibernate, Spring IoC, Spring MVC and SpringBoot**
 
 - 💬 Ask me about **Web and software development**
 

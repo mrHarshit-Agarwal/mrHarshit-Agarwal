@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hey! I'm Harshit Agarwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-- 🔭 I’m currently working on Java Desktop Project **Employee Management System**
+- 🔭 I’m currently working on a Java Backend Development Project
 
 - 🌱 I’m currently learning **Java, JDBC, Servlet, JSP, JPA, Hibernate, Spring IoC, Spring MVC and SpringBoot**
 

@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **harshitag98.ha@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1USAwxkd44v1lqPCcFKXcaSzyQArMPDqp/view?usp=sharing" target="blank">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1hveaRTHPpXE3vO14i1I4YePmQ7roaLte/view?usp=sharing" target="blank">Resume</a>**
   
 
 <h3 align="left">Connect with me:</h3>
